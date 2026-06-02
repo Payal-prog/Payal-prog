@@ -89,6 +89,8 @@ Provisioned a highly available AWS environment with private subnets, NAT Gateway
 
 ## Connect With Me
 
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: https://www.linkedin.com/in/it-payal/
 
-GitHub: [Your GitHub URL]
+GitHub: https://github.com/Payal-prog
+
+Email: payal240721@gmail.com
